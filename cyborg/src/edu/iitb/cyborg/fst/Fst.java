@@ -25,8 +25,7 @@ import java.io.InputStreamReader;
 
 public class Fst {
 	
-	
-	
+
 	/**
 	 *This function takes the dictionary and transcription as input and 
 	 *creates a creates an FST folder.<br>

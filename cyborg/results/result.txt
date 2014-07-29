@@ -47,3 +47,15 @@
  Used memory in megabytes                    : 23.09 MB
 
 *******************X*******************X*******************
+
+
+****************** System Performance ********************
+
+ Total time elapsed : 1558 ms
+
+ Total Memory allocated by JVM               : 75.00 MB
+ Available free memory from allocated memory : 60.45 MB
+ Used memory in bytes                        : 15261168 Bytes
+ Used memory in megabytes                    : 14.55 MB
+
+*******************X*******************X*******************
