@@ -1,0 +1,100 @@
+!SESSION 2013-06-07 14:49:00.049 -----------------------------------------------
+eclipse.buildId=M20130204-1200
+java.version=1.7.0
+java.vendor=Oracle Corporation
+BootLoader constants: OS=win32, ARCH=x86, WS=win32, NL=en_US
+Framework arguments:  -product org.eclipse.epp.package.java.product
+Command-line arguments:  -os win32 -ws win32 -arch x86 -product org.eclipse.epp.package.java.product
+
+!ENTRY org.eclipse.core.net 1 0 2013-06-07 14:50:27.790
+!MESSAGE System property http.proxyHost is not set but should be netmon.iitb.ac.in.
+
+!ENTRY org.eclipse.core.net 1 0 2013-06-07 14:50:27.800
+!MESSAGE System property http.proxyPort is not set but should be 80.
+
+!ENTRY org.eclipse.core.net 1 0 2013-06-07 14:50:27.802
+!MESSAGE System property https.proxyHost is not set but should be netmon.iitb.ac.in.
+
+!ENTRY org.eclipse.core.net 1 0 2013-06-07 14:50:27.802
+!MESSAGE System property https.proxyPort is not set but should be 80.
+
+!ENTRY org.eclipse.core.net 1 0 2013-06-07 14:50:27.805
+!MESSAGE System property https.proxyHost is not set but should be netmon.iitb.ac.in.
+
+!ENTRY org.eclipse.core.net 1 0 2013-06-07 14:50:27.805
+!MESSAGE System property https.proxyPort is not set but should be 80.
+!SESSION 2013-06-07 17:25:03.794 -----------------------------------------------
+eclipse.buildId=M20130204-1200
+java.version=1.7.0
+java.vendor=Oracle Corporation
+BootLoader constants: OS=win32, ARCH=x86, WS=win32, NL=en_US
+Framework arguments:  -product org.eclipse.epp.package.java.product
+Command-line arguments:  -os win32 -ws win32 -arch x86 -product org.eclipse.epp.package.java.product
+
+!ENTRY org.eclipse.core.net 1 0 2013-06-07 17:25:24.475
+!MESSAGE System property http.proxyHost is not set but should be netmon.iitb.ac.in.
+
+!ENTRY org.eclipse.core.net 1 0 2013-06-07 17:25:24.491
+!MESSAGE System property http.proxyPort is not set but should be 80.
+
+!ENTRY org.eclipse.core.net 1 0 2013-06-07 17:25:24.493
+!MESSAGE System property https.proxyHost is not set but should be netmon.iitb.ac.in.
+
+!ENTRY org.eclipse.core.net 1 0 2013-06-07 17:25:24.493
+!MESSAGE System property https.proxyPort is not set but should be 80.
+
+!ENTRY org.eclipse.core.net 1 0 2013-06-07 17:25:24.496
+!MESSAGE System property https.proxyHost is not set but should be netmon.iitb.ac.in.
+
+!ENTRY org.eclipse.core.net 1 0 2013-06-07 17:25:24.496
+!MESSAGE System property https.proxyPort is not set but should be 80.
+!SESSION 2013-06-07 17:29:30.714 -----------------------------------------------
+eclipse.buildId=M20130204-1200
+java.version=1.7.0
+java.vendor=Oracle Corporation
+BootLoader constants: OS=win32, ARCH=x86, WS=win32, NL=en_US
+Framework arguments:  -product org.eclipse.epp.package.java.product
+Command-line arguments:  -os win32 -ws win32 -arch x86 -product org.eclipse.epp.package.java.product
+
+!ENTRY org.eclipse.core.net 1 0 2013-06-07 17:29:37.137
+!MESSAGE System property http.proxyHost is not set but should be netmon.iitb.ac.in.
+
+!ENTRY org.eclipse.core.net 1 0 2013-06-07 17:29:37.173
+!MESSAGE System property http.proxyPort is not set but should be 80.
+
+!ENTRY org.eclipse.core.net 1 0 2013-06-07 17:29:37.174
+!MESSAGE System property https.proxyHost is not set but should be netmon.iitb.ac.in.
+
+!ENTRY org.eclipse.core.net 1 0 2013-06-07 17:29:37.174
+!MESSAGE System property https.proxyPort is not set but should be 80.
+
+!ENTRY org.eclipse.core.net 1 0 2013-06-07 17:29:37.274
+!MESSAGE System property https.proxyHost is not set but should be netmon.iitb.ac.in.
+
+!ENTRY org.eclipse.core.net 1 0 2013-06-07 17:29:37.275
+!MESSAGE System property https.proxyPort is not set but should be 80.
+!SESSION 2013-06-25 10:55:11.637 -----------------------------------------------
+eclipse.buildId=M20130204-1200
+java.version=1.7.0
+java.vendor=Oracle Corporation
+BootLoader constants: OS=win32, ARCH=x86, WS=win32, NL=en_US
+Framework arguments:  -product org.eclipse.epp.package.java.product -product org.eclipse.epp.package.java.product
+Command-line arguments:  -os win32 -ws win32 -arch x86 -product org.eclipse.epp.package.java.product -data C:\Users\composer\git\cyborg\cyborg -product org.eclipse.epp.package.java.product
+
+!ENTRY org.eclipse.core.net 1 0 2013-06-25 10:55:14.804
+!MESSAGE System property http.proxyHost is not set but should be netmon.iitb.ac.in.
+
+!ENTRY org.eclipse.core.net 1 0 2013-06-25 10:55:14.820
+!MESSAGE System property http.proxyPort is not set but should be 80.
+
+!ENTRY org.eclipse.core.net 1 0 2013-06-25 10:55:14.821
+!MESSAGE System property https.proxyHost is not set but should be netmon.iitb.ac.in.
+
+!ENTRY org.eclipse.core.net 1 0 2013-06-25 10:55:14.822
+!MESSAGE System property https.proxyPort is not set but should be 80.
+
+!ENTRY org.eclipse.core.net 1 0 2013-06-25 10:55:14.824
+!MESSAGE System property https.proxyHost is not set but should be netmon.iitb.ac.in.
+
+!ENTRY org.eclipse.core.net 1 0 2013-06-25 10:55:14.825
+!MESSAGE System property https.proxyPort is not set but should be 80.

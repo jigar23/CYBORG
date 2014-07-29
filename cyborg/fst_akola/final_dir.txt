@@ -1,0 +1,8 @@
+0	1	SIL	<s>
+1	2	a	akolaa
+2	3	k	</s>
+3	4	o	<eps>
+4	5	l	<eps>
+5	6	aa	<eps>
+6	7	SIL	<eps>
+7
